@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PN_A_0181</string>
+    <string name="send_on_channel_1">Send on Channel 1</string>
+    <string name="send_on_channel_2">Send on Channel 2</string>
+    <string name="title">Title</string>
+    <string name="message">Message</string>
+</resources>
